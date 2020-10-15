@@ -1,0 +1,32 @@
+-- Git Command List and Purpose #2 --
+
+Tutorial Video: Git Tutorial - 3 - 
+Tutorial Link: https://www.youtube.com/watch?v=spr0ZHC2x2o&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=3
+
+Purpose: Moving between directories and creating a repository
+
+----------------------------------------------------------------------------------------------------------
+
+pwd 
+
+'/c/Users/Bucky'
+
+cd ~
+
+'Go to home directory'
+
+cd .. 
+
+'Move back one directory'
+
+ls
+
+'List all files in that directory'
+
+cd Desktop
+
+'Move into "Desktop" directory'
+
+git init
+
+'Create a new repository in the current directory path you are in'

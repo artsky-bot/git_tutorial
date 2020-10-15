@@ -1,0 +1,13 @@
+-- Git Command List and Purpose #1 -- 
+
+Tutorial Video: Git Tutorial - 2 - Config Our Username and Email 
+Tutorial Link: https://www.youtube.com/watch?v=yDntCIs-IJM&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=2
+
+Purpose: Configuring username and user's email to Git
+
+----------------------------------------------------------------------------------------------------------
+
+git config --global user.name "<name>"
+
+git config --global user.email "<user@email.com>"
+
