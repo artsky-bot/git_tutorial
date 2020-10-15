@@ -1,0 +1,14 @@
+-- Git Command List and Purpose #5 --
+
+Tutorial Video: Git Tutorial - 7 - Viewing the Changes That You Made
+Tutorial Link: https://www.youtube.com/watch?v=S-VirDyRXbA
+
+Purpose: Show the changes that you made between the git repository file versus the working copy file
+
+----------------------------------------------------------------------------------------------------------
+
+git diff
+
+'When you edit a file and before you commit that file, you can check the differences inside the file 
+between the previously committed file'
+
