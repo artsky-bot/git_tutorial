@@ -1,0 +1,23 @@
+-- Git Command List and Purpose #4 --
+
+Tutorial Video: Git Tutorial - 5 - Adding Files and the Commit Log
+Tutorial Link: https://www.youtube.com/watch?v=XiQnN-igNoc
+
+Purpose: View the commit log and see who committed as well as adding files
+
+----------------------------------------------------------------------------------------------------------
+
+git log 
+
+'Gives the author and the date and the message of the commit'
+
+git log --author = "<name>"
+
+'Give a list of commits but only from a specific username'
+
+git status 
+
+'Gives the status of the files in your git repository, it will tell you 
+what files are being tracked and aren't being tracked. Anything that isn't
+tracked should be committed'
+

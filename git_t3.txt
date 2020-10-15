@@ -3,7 +3,7 @@
 Tutorial Video: Git Tutorial - 4 - Commit
 Tutorial Link: https://www.youtube.com/watch?v=vzUqIwEIPvw
 
-Purpose: Moving between directories and creating a repository
+Purpose: Add to staging area and add to git repository
 
 ----------------------------------------------------------------------------------------------------------
 
