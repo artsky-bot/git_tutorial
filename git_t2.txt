@@ -1,6 +1,6 @@
 -- Git Command List and Purpose #2 --
 
-Tutorial Video: Git Tutorial - 3 - 
+Tutorial Video: Git Tutorial - 3 - Creating Our First Repository
 Tutorial Link: https://www.youtube.com/watch?v=spr0ZHC2x2o&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx&index=3
 
 Purpose: Moving between directories and creating a repository

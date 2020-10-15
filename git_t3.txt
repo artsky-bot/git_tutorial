@@ -1,0 +1,22 @@
+-- Git Command List and Purpose #3 --
+
+Tutorial Video: Git Tutorial - 4 - Commit
+Tutorial Link: https://www.youtube.com/watch?v=vzUqIwEIPvw
+
+Purpose: Moving between directories and creating a repository
+
+----------------------------------------------------------------------------------------------------------
+
+git add .
+
+'Send all files and working copy to the staging area'
+'Staging area means that these files are ready to be committed'
+
+git add git_t1.txt
+
+'Send the git_t1.txt only to the staging area'
+
+git commit -m "<commit message>"
+
+'Once we commit, everything that is from the staging area will be sent to the repository'
+'git will be able to keep track of the files you commmitted'
