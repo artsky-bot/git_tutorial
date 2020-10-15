@@ -1,0 +1,12 @@
+-- Git Command List and Purpose #6 --
+
+Tutorial Video: Git Tutorial - 10 - How to Delete Files
+Tutorial Link: https://www.youtube.com/watch?v=tyBgwQipu9c&t=57s
+
+Purpose: Delete files from git repository and working copy
+
+----------------------------------------------------------------------------------------------------------
+
+git rm git_t1.txt
+
+'Remove file from the git repository and also from the file directory'

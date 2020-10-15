@@ -12,3 +12,7 @@ git diff
 'When you edit a file and before you commit that file, you can check the differences inside the file 
 between the previously committed file'
 
+gif diff --staged
+
+'When you edit the file and also add it to the staging area, you can view the differences inside the file
+between the previously committed file'
