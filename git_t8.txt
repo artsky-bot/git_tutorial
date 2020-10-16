@@ -1,0 +1,17 @@
+-- Git Command List and Purpose #8 --
+
+Tutorial Video: Git Tutorial - 13 - How to Commit Directly to the Repository
+Tutorial Link: https://www.youtube.com/watch?v=aKigarlryYA
+
+Purpose: Figure out how to commit directly to the repository and skip staging area
+
+----------------------------------------------------------------------------------------------------------
+
+git -am "Adding all files automatically to staging area and committing them"
+
+'Essentially instead of doing "git add ." and then committing, we can just use this one
+command without having to do "git add ." '
+
+'This should only really be done if you want to add all the files in one go. If you want 
+to commit individual files, this is not a good idea'
+
