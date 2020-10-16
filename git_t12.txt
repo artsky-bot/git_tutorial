@@ -1,0 +1,20 @@
+-- Git Command List and Purpose #12 --
+
+Tutorial Video: Git Tutorial - 18 - Pushing to a GitHub repository
+Tutorial Link: https://www.youtube.com/watch?v=kHwkaw3AxtY
+
+Purpose: Learning how to use Github as well as pushing git repositories to Github
+
+----------------------------------------------------------------------------------------------------------
+
+git remote add gitTutRepo http://github.com/.....
+
+'Setting up your connection between local computer and public online repository. 'gitTutRepo' is
+just a nickname instead of having to type out the entire url all the time'
+
+git push -u gitTutRepo master
+
+'At this point we are trying to put all the files onto the public repository. It will ask for your
+username and password to verify that it is you'
+
+
