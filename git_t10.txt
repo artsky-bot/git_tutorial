@@ -1,0 +1,13 @@
+-- Git Command List and Purpose #10 --
+
+Tutorial Video: Git Tutorial - 15 - Unstage Files
+Tutorial Link: https://www.youtube.com/watch?v=s_sAZiZL_3A
+
+Purpose: If you added something onto the staging area but want to remove it from staging area
+
+----------------------------------------------------------------------------------------------------------
+
+git reset HEAD git_t10.txt
+
+'Basically if we did "git add ." or "git add git_t10.txt" but then realize it's a bad copy, you can 
+remove it from the staging area with this command'
