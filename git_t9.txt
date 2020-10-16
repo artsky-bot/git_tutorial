@@ -1,0 +1,15 @@
+-- Git Command List and Purpose #9 --
+
+Tutorial Video: Git Tutorial - 14 - Checkout this video (Git it?)
+Tutorial Link: https://www.youtube.com/watch?v=hL_U5SMoz50
+
+Purpose: In case mistakes were made, we want to revert back to a good file copy from the repository
+
+----------------------------------------------------------------------------------------------------------
+
+git checkout -- git_t9.txt
+
+'Someone worked on this file and saved it, now when you attempt to do something. It isn't working correctly, 
+you can revert back to a good committed copy from the git repository and restore it to that instead'
+
+(Video did not discuss about what if that bad copy was sent in through as a commit, probably future video)
