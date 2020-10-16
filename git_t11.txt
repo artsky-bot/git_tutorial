@@ -1,0 +1,19 @@
+-- Git Command List and Purpose #11 --
+
+Tutorial Video: Git Tutorial - 16 - Getting Old Versions from the Repository
+Tutorial Link: https://www.youtube.com/watch?v=owhLQKxkvjw
+
+Purpose: As the title states, basically getting an older version from the git repository
+
+----------------------------------------------------------------------------------------------------------
+
+git checkout 05cdf452 -- git_t1.txt
+
+'Basically if we want to get an older version of the repository, we will use the git checkout command 
+and preceeding with a few numbers and characters of the commit ID'
+
+(Getting the entire repository was not mentioned)
+
+git checkout 05cdf452
+
+'Get entire old git repository?'
