@@ -1,0 +1,14 @@
+-- Git Command List and Purpose #13 --
+
+Tutorial Video: Git Tutorial - 19 - Pushing to a GitHub repository
+Tutorial Link: https://www.youtube.com/watch?v=2zSPcc6ZWGI
+
+Purpose: Learning how to use GitHub Desktop and gitignore
+
+----------------------------------------------------------------------------------------------------------
+
+.gitignore
+
+'This isn't a command but a regular file that needs to be in your git repository, it basically is a special 
+files that helps hide some specific settings files that might be implemented automatically from an IDE or something'
+
