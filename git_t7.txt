@@ -1,0 +1,28 @@
+-- Git Command List and Purpose #7 --
+
+Tutorial Video: Git Tutorial - 11 - How to Move and Rename Files
+Tutorial Link: https://www.youtube.com/watch?v=lyoJiKnpl6w&t=39s
+
+Purpose: Figure out how to move files and rename files in the git repository
+
+----------------------------------------------------------------------------------------------------------
+
+git add home.txt
+
+git rm git_t1.txt
+
+git status
+
+'git status will show us that we wanted to basically rename the file that is currently 
+in the git repository by pretending to add a home.txt file and deleting the git_t1.txt'
+
+git mv home.txt git_t1.txt
+
+'We use this idea of moving a file is pretty much the same thing as renaming the file. It is
+much easier than the method presented above'
+
+git mv git_t1.txt FolderName/<newname.txt>
+
+'Move this text file inside this folder with the given folder name'
+'In the process you can also rename the file that you moved'
+
